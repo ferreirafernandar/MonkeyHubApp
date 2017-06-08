@@ -1,0 +1,2 @@
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\MonkeyHubApp.UWP.csproj;arm
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.csproj;neutral
