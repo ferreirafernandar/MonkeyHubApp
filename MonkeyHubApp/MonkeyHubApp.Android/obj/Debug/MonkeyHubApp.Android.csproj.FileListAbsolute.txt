@@ -1,3 +1,4 @@
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.Android.dll.config
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.Android.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.Android.pdb
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.Android.apk
@@ -16,6 +17,9 @@ D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.For
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.pdb
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.dll.config
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\FormsViewGroup.pdb
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\FormsViewGroup.dll.mdb
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
@@ -26,6 +30,7 @@ D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.For
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Newtonsoft.Json.xml
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\MonkeyHubApp.Android.csprojResolveAssemblyReference.cache
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\MonkeyHubApp.Android.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\MonkeyHubApp.Android.pdb
@@ -39,11 +44,6 @@ D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\res\layout\
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\res\values\styles.xml
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\R.cs.flag
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\uploadflags.txt
-D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.pdb
-D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.Android.dll.config
-D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Newtonsoft.Json.dll
-D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.dll.config
-D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\Newtonsoft.Json.xml
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.dll.mdb
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\bin\Debug\MonkeyHubApp.Android.dll.mdb
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb

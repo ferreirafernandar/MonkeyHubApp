@@ -1,4 +1,5 @@
 ﻿using MonkeyHubApp.Models;
+using MonkeyHubApp.Services;
 using MonkeyHubApp.ViewModels;
 using System;
 using System.Collections.Generic;
@@ -11,24 +12,25 @@ using Xamarin.Forms.Xaml;
 
 namespace MonkeyHubApp
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CategoryPage : ContentPage
     {
+        private CategoryViewModel ViewModel => BindingContext as CategoryViewModel;
         public CategoryPage()
         {
             InitializeComponent();
+            //var monkeyHubApiService = DependencyService.Get<IMonkeyHubApiService>();
+            //var tag = new Tag();
+            //BindingContext = new CategoryViewModel(monkeyHubApiService, tag);
         }
 
-        protected override void OnAppearing()
+        protected override async void OnAppearing()
         {
-            (BindingContext as CategoryViewModel)?.LoadAsync();
             base.OnAppearing();
-        }
-
-        private void ListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
-        {
-            var content = (sender as ListView)?.SelectedItem as Content;
-            (BindingContext as CategoryViewModel)?.ShowContentCommand.Execute(content);
+            if (ViewModel != null)
+            {
+                await ViewModel.LoadAsync();
+            }
         }
     }
+
 }

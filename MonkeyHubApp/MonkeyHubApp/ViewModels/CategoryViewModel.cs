@@ -24,7 +24,7 @@ namespace MonkeyHubApp.ViewModels
             Contents = new ObservableCollection<Content>();
             ShowContentCommand = new Command<Content>(ExecuteShowContentCommand);
 
-            //Title = "Eventos";
+           // Title = "Eventos";
         }
 
         private async void ExecuteShowContentCommand(Content content)

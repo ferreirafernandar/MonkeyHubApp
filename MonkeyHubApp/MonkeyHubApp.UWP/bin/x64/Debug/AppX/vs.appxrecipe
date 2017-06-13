@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>0945335D7D0CCA74CCB3E885CA5FC56A0163514250160C4D51043837580E0564</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>2688417EEFDFE8C11BC272FDCDA84866B5D76FD847971BBDE074C31F996A3B40</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>6c068534-3b39-41d4-8e3e-2e0b390c917a_1.0.0.0_x64__rnm64k2paqp58</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>6c068534-3b39-41d4-8e3e-2e0b390c917a_rnm64k2paqp58!App</RegisteredUserModeAppID>
     <RegisteredPackageID>6c068534-3b39-41d4-8e3e-2e0b390c917a</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-01T02:50:48.956</Modified>
+      <Modified>2017-06-13T16:50:22.044</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\MonkeyHubApp.UWP.exe">
       <PackagePath>entrypoint\MonkeyHubApp.UWP.exe</PackagePath>
-      <Modified>2017-06-01T02:50:47.946</Modified>
+      <Modified>2017-06-13T16:49:42.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Fernanda\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,7 +513,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.dll">
       <PackagePath>MonkeyHubApp.dll</PackagePath>
-      <Modified>2017-06-01T02:50:26.359</Modified>
+      <Modified>2017-06-13T16:49:26.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2017-04-02T20:46:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp\bin\Debug\MonkeyHubApp.dll.config">
+      <PackagePath>MonkeyHubApp.dll.config</PackagePath>
+      <Modified>2017-06-13T16:49:22.961</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -688,11 +696,11 @@
     <AppxPackagedFile Include="D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-06-01T02:45:46.708</Modified>
+      <Modified>2017-06-13T16:50:13.297</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\Core\MonkeyHubApp.UWP.exe">
       <PackagePath>MonkeyHubApp.UWP.exe</PackagePath>
-      <Modified>2017-06-01T02:50:48.952</Modified>
+      <Modified>2017-06-13T16:50:22.002</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -725,27 +733,27 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25022.0</Version>
+      <Version>14.0.25023.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25022.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25023.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25022.0</Version>
+      <Version>14.0.25023.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25022.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25023.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25022.0</Version>
+      <Version>14.0.25023.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25022.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25023.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

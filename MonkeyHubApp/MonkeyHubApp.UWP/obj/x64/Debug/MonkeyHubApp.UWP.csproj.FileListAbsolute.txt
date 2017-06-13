@@ -127,7 +127,10 @@ D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\Xamarin.For
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\MonkeyHubApp.dll
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\Newtonsoft.Json.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\MonkeyHubApp.pdb
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\MonkeyHubApp.dll.config
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\x64\Debug\Newtonsoft.Json.xml
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\x64\Debug\MonkeyHubApp.UWP.csprojResolveAssemblyReference.cache
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\x64\Debug\App.g.i.cs
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\x64\Debug\App.g.cs

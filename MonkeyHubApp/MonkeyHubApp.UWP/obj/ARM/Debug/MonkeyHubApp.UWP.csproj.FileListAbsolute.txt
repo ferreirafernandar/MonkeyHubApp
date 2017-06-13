@@ -126,7 +126,10 @@ D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\Xamarin.For
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\Xamarin.Forms.Platform.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\Xamarin.Forms.Xaml.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\MonkeyHubApp.dll
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\Newtonsoft.Json.dll
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\MonkeyHubApp.pdb
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\MonkeyHubApp.dll.config
+D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\Newtonsoft.Json.xml
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\ARM\Debug\MonkeyHubApp.UWP.csprojResolveAssemblyReference.cache
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\ARM\Debug\App.g.i.cs
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\ARM\Debug\App.g.cs
@@ -217,6 +220,3 @@ D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\ARM\Debug\qualifiers.
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\ARM\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\obj\ARM\Debug\ProjectArchitectures.txt
-D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\Newtonsoft.Json.dll
-D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\MonkeyHubApp.dll.config
-D:\Projects\MonkeyHubApp\MonkeyHubApp\MonkeyHubApp.UWP\bin\ARM\Debug\Newtonsoft.Json.xml

@@ -2,12 +2,19 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MonkeyHubApp.CategoryPage"
-             Title="Página de Categoria">
-    <ListView ItemsSource="{Binding Contents}" ItemSelected="ListView_OnItemSelected">
+             xmlns:controls="clr-namespace:MonkeyHubApp.Controls;assembly:MonkeyHubApp"
+             Title="Eventos">
+    <controls:MyListView ItemsSource="{Binding Contents}" HasUnevenRows="True">
         <ListView.ItemTemplate>
             <DataTemplate>
-                <ImageCell ImageSource="{Binding Banner}" Text="{Binding Name}" Detail="{Binding Description}"/>
+                <ViewCell>
+                    <StackLayout Orientation="Vertical">
+                        <Image Source="{Binding Banner}"/>
+                        <Label Text="{Binding Name}" TextColor="Black" Font="Large"/>
+                        <Label Text="{Binding Description}" TextColor="Gray" Font="Medium"/>
+                    </StackLayout>
+                </ViewCell>
             </DataTemplate>
         </ListView.ItemTemplate>
-    </ListView>
+    </controls:MyListView>
 </ContentPage>

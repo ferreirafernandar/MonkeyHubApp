@@ -2,22 +2,20 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MonkeyHubApp"
+             xmlns:controls="clr-namespace:MonkeyHubApp.Controls;assembly:MonkeyHubApp"
              x:Class="MonkeyHubApp.MainPage"
              Title="Categorias">
 
-    <ContentPage.ToolbarItems>
-        <ToolbarItem Text="About" Command="{Binding AboutCommand}"/>
-        <ToolbarItem Text="Buscar" Command="{Binding SearchCommand}"/>
-    </ContentPage.ToolbarItems>
-    <StackLayout>
-        <Entry Text="{Binding SearchTerm}"/>
-        <ListView ItemsSource="{Binding Tags}" ItemSelected="ListView_OnItemSelected">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell Text="{Binding Name}" Detail="{Binding Description}"/>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </StackLayout>
-
+    <controls:MyListView ItemsSource="{Binding Tags}" HasUnevenRows="True" ItemTappedCommand="{Binding ShowCategoryCommand}">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Padding="20">
+                        <Label Text="{Binding Name}" TextColor="Black" Font="Large"/>
+                        <Label Text="{Binding Description}" TextColor="Gray" Font="Medium"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </controls:MyListView>
 </ContentPage>
