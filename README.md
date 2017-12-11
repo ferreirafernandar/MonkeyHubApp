@@ -1,1 +1,1 @@
-# App xamarin Maratona Xamarin
+# Maratona Xamarin
